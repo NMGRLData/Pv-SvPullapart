@@ -1,0 +1,34 @@
+{
+    "beam_diameter": "2.0",
+    "cleanup_duration": 45.0,
+    "commit": "0274eb54414c803e9298bc2a23878bc4b398565f",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 0.35,
+    "grain_polygons": [],
+    "light_value": null,
+    "load_holder": "221-small-hole",
+    "load_name": "C0119",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 3,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
